@@ -419,3 +419,12 @@ Please reference our work if you find *TradingAgents* provides you with some hel
       url={https://arxiv.org/abs/2412.20138}, 
 }
 ```
+
+---
+
+### Créditos e fonte original
+
+Este repositório é um fork de [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents), criado e mantido pelos autores originais. Todo o crédito é deles.  
+Licença: Apache License 2.0 (mantida sem alterações).
+
+**Fonte original:** https://github.com/TauricResearch/TradingAgents
